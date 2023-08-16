@@ -19,4 +19,4 @@ function printTree(height) {
 
   console.log(tree);
 }
-// printTree(10)
+printTree(10)
